@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1039790762799",
+    "project_id": "test-5d63e",
+    "storage_bucket": "test-5d63e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039790762799:android:ba65beadd507b506a4cfda",
+        "android_client_info": {
+          "package_name": "com.thinkoncce.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039790762799-frod56snlichpd1ms4770do43mclr79p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHveUCNF8-bwxK6kjKSKsfBci8qhPTPic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039790762799-frod56snlichpd1ms4770do43mclr79p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
